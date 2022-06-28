@@ -1,0 +1,35 @@
+[++Networking Cheats++]
+
+disconnect - Disconnect everyone from a server/game online
+reconnect - Connects to the server/game just left
+cancel - Cancels connecting to server
+
+===================================================================================
+
+[++Useful Cheats++]
+
+set walkspeed <number> - set a walkspeed rate
+set flyspeed <number> - set a flyingspeed rate
+set runspeed <number> - set a runningspeed rate
+walk - resets player to walking state
+open <level name> - opens a level without needing to navigate the menu
+fly - allows the current player to fly
+ghost - allows the current player to walk through objects.
+t.maxfps <number> - allows the game to break the 60fps barrier when VSync is turned off
+r.VSync 0 - turns off VSync, allowing you to max out your fps with the "t.maxfps <number> command
+god - the current player will take no damage at all and has infinite gasoline
+slomo <number> - allows the user to slow down or speed up the game (normal game speed is 1)
+playersonly - freeze all players and AI.
+r.TranslucentSortPolicy 0 - better camera axis spinning
+r.VSyncEditor 0 - disables VSync for camera/editor
+r.Fog <number> - 1 enables the fog, 0 disables the fog
+
+===================================================================================
+
+[++Stats Cheats++]
+
+stat fps <number> - Alows you to see the FPS debug information
+stat levels - displays level stats.
+stat unit - displays basic utility information
+stat ai - allows you to see how many zombies are spawned where your camera is pointed
+stat ai_equ - allows the player to see how many birds, snowmen, and ISZ guy collectables are spawned where your camera is pointed.
