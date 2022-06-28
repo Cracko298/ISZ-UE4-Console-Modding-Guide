@@ -1,4 +1,4 @@
-# Ice-Station-Z-Hacking-Guide
+# Ice-Station-Z-Modding-Guide
 - A *sorta* full guide on how to hack Ice Station Z 2021 for Nintendo-Switch/PS4/PS5/Steam/PC.
 - Includes debug commands, texture/model quality commands, Hack/Cheat commands, and more.
 
