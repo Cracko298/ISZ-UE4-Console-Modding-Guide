@@ -22,21 +22,21 @@
 - Use the codes provided below to enhance, cheat/hack, or debug Ice Station Z 2021.
 
 # Normal Cheat(s)/Command(s):
-- set walkspeed <number> - *set a walkspeed rate*
-- set flyspeed <number> - *set a flyingspeed rate*
-- set runspeed <number> - *set a runningspeed rate*
+- set walkspeed number - *set a walkspeed rate*
+- set flyspeed number - *set a flyingspeed rate*
+- set runspeed number - *set a runningspeed rate*
 - walk - *resets player to walking state*
-- open <level name> - *opens a level without needing to navigate the menu*
+- open level name - *opens a level without needing to navigate the menu*
 - fly - *allows the current player to fly*
 - ghost - *allows the current player to walk through objects*
-- t.maxfps <number> - *allows the game to break the 60fps barrier when VSync is turned off*
-- r.VSync 0 - *turns off VSync, allowing you to max out your fps with the "t.maxfps <number> command*
+- t.maxfps number - *allows the game to break the 60fps barrier when VSync is turned off*
+- r.VSync 0 - *turns off VSync, allowing you to max out your fps with the "t.maxfps number command*
 - god - *the current player will take no damage at all and has infinite gasoline*
-- slomo <number> - *allows the user to slow down or speed up the game (normal game speed is 1)*
+- slomo number - *allows the user to slow down or speed up the game (normal game speed is 1)*
 - playersonly - *freeze all players and AI*
 - r.TranslucentSortPolicy 0 - *better camera axis spinning*
 - r.VSyncEditor 0 - *disables VSync for camera/editor*
-- r.Fog <number> - *1 enables the fog, 0 disables the fog*
+- r.Fog number - *1 enables the fog, 0 disables the fog*
 
 # Networking Cheat(s)/Command(s):
 - disconnect - *disconnect everyone from a server/game online*
@@ -44,7 +44,7 @@
 - cancel - *cancels connecting to server*
 
 # Stat Cheat(s)/Command(s):
-- stat fps <number> - *allows you to see the FPS debug information*
+- stat fps number - *allows you to see the FPS debug information*
 - stat levels - *displays level stats*
 - stat unit - *displays basic utility information*
 - stat ai - *allows the player to see how many zombies are spawned where your camera is pointed*
@@ -55,8 +55,8 @@
 - Game - */Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap*
 
 # Notes:
-- <number> refers to a number of your choice without the <>.
-- <level name> refers to the full-level path. under [++Level Names++] without the <>.
+- number refers to a number of your choice without the word "number".
+- level name refers to the full-level path. under [++Level Names++] without the word(s) "level name".
 - to use these codes online you must be hosting a game.
 - these codes work on all consoles/systems Ice Station Z 2021 released on.
 - if Wobbly Tooth Ltd requests this guide to be taken down. It will be taken down.
