@@ -55,14 +55,14 @@
 - Game - */Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap*
 
 # Notes:
-- number refers to a number of your choice without the word "number".
-- level name refers to the full-level path. under "Level Names:" without the word(s) "level name".
-- to use these codes online you must be hosting a game.
-- these codes work on all consoles/systems Ice Station Z 2021 released on.
-- if Wobbly Tooth Ltd requests this guide to be taken down. It will be taken down.
-- requires Unreal Engine console knowledge.
-- the "-" sign in the cheats is NOT supposed to be copied (it seperates the note from the cheat).
-- want more console commands? Absolutely! I have you covered on [This Site](http://kosmokleaner.de/ownsoft/UE4CVarBrowser.html) Here.
+- Number refers to a number of your choice without the word "number".
+- Level name refers to the full-level path. under "Level Names:" without the word(s) "level name".
+- To use these codes online you must be hosting a game.
+- These codes work on all consoles/systems Ice Station Z 2021 released on.
+- If Wobbly Tooth Ltd requests this guide to be taken down. It will be taken down.
+- Requires Unreal Engine console knowledge.
+- The "-" sign in the cheats is NOT supposed to be copied (it seperates the note from the cheat).
+- Want more console commands? Absolutely! I have you covered on [This Site](http://kosmokleaner.de/ownsoft/UE4CVarBrowser.html) Here.
 
 # Screenshots:
 
