@@ -62,6 +62,7 @@
 - if Wobbly Tooth Ltd requests this guide to be taken down. It will be taken down.
 - requires Unreal Engine console knowledge.
 - the "-" sign in the cheats is NOT supposed to be copied (it seperates the note from the cheat).
+- want more console commands? Absolutely! I have you covered on [This Site](http://kosmokleaner.de/ownsoft/UE4CVarBrowser.html) Here.
 
 # Screenshots:
 
