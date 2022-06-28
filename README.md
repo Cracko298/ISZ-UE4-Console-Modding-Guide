@@ -3,7 +3,7 @@
 
 # Console Hacking/Modding:
 - Requires an Homebrewed Device with USB Debugging features.
-- And a download of [Universal Unreal Unlocker 4](https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm)
+- And a download of [Universal Unreal Unlocker 4](https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm).
 - Extract the *.zip contents.
 - Run the *UuuClient.exe as an administrator.
 - Inject the UniversalUE4Unlocker.dll into the process on your console.
