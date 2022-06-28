@@ -56,7 +56,7 @@
 
 # Notes:
 - number refers to a number of your choice without the word "number".
-- level name refers to the full-level path. under [++Level Names++] without the word(s) "level name".
+- level name refers to the full-level path. under "Level Names:" without the word(s) "level name".
 - to use these codes online you must be hosting a game.
 - these codes work on all consoles/systems Ice Station Z 2021 released on.
 - if Wobbly Tooth Ltd requests this guide to be taken down. It will be taken down.
