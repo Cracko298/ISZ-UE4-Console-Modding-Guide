@@ -60,3 +60,17 @@
 - if Wobbly Tooth Ltd requests this guide to be taken down. It will be taken down.
 - requires Unreal Engine console knowledge.
 - the "-" sign in the cheats is NOT supposed to be copied (it seperates the note from the cheat).
+
+# Screenshots:
+
+![image](https://user-images.githubusercontent.com/78656905/176266933-960127d1-5133-4a9f-82ff-2260f7d66df7.png)
+
+![image](https://user-images.githubusercontent.com/78656905/176266989-392b3117-e26e-458e-af8b-17d3b285e999.png)
+
+![image](https://user-images.githubusercontent.com/78656905/176267023-9069a288-9cca-4a68-ba6e-f068c6dc0fca.png)
+
+![image](https://user-images.githubusercontent.com/78656905/176267057-5ff832cb-2ded-4007-956f-18d6263f56d2.png)
+
+![image](https://user-images.githubusercontent.com/78656905/176267106-7ea6e13f-1eee-4743-8776-2a629160c995.png)
+
+![image](https://user-images.githubusercontent.com/78656905/176267129-954b394c-11a6-4b7f-a844-c376106d40a4.png)
