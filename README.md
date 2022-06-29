@@ -9,7 +9,7 @@
 - Extract the *.zip contents.
 - Run the *UuuClient.exe as an administrator.
 - Inject the UniversalUE4Unlocker.dll into the process on your console.
-- Test the buttons oon your console for the *console access* button.
+- Test the buttons on your console for the *console access* button.
 
 # Steam/PC Hacking/Modding
 - Requires a Windows device (linux and MacOS do NOT support .dll injecting).
@@ -22,21 +22,21 @@
 - Use the codes provided below to enhance, cheat/hack, or debug Ice Station Z 2021.
 
 # Normal Cheat(s)/Command(s):
-- set walkspeed number - *set a walkspeed rate*
-- set flyspeed number - *set a flyingspeed rate*
-- set runspeed number - *set a runningspeed rate*
+- set walkspeed "number" - *set a walkspeed rate*
+- set flyspeed "number" - *set a flyingspeed rate*
+- set runspeed "number" - *set a runningspeed rate*
 - walk - *resets player to walking state*
-- open level name - *opens a level without needing to navigate the menu*
+- open "level name" - *opens a level without needing to navigate the menu*
 - fly - *allows the current player to fly*
 - ghost - *allows the current player to walk through objects*
-- t.maxfps number - *allows the game to break the 60fps barrier when VSync is turned off*
+- t.maxfps "number" - *allows the game to break the 60fps barrier when VSync is turned off*
 - r.VSync 0 - *turns off VSync, allowing you to max out your fps with the "t.maxfps number command*
 - god - *the current player will take no damage at all and has infinite gasoline*
-- slomo number - *allows the user to slow down or speed up the game (normal game speed is 1)*
+- slomo "number" - *allows the user to slow down or speed up the game (normal game speed is 1)*
 - playersonly - *freeze all players and AI*
 - r.TranslucentSortPolicy 0 - *better camera axis spinning*
 - r.VSyncEditor 0 - *disables VSync for camera/editor*
-- r.Fog number - *1 enables the fog, 0 disables the fog*
+- r.Fog "number" - *1 enables the fog, 0 disables the fog*
 
 # Networking Cheat(s)/Command(s):
 - disconnect - *disconnect everyone from a server/game online*
@@ -44,25 +44,31 @@
 - cancel - *cancels connecting to server*
 
 # Stat Cheat(s)/Command(s):
-- stat fps number - *allows you to see the FPS debug information*
+- stat fps - *allows you to see the FPS debug information*
 - stat levels - *displays level stats*
 - stat unit - *displays basic utility information*
 - stat ai - *allows the player to see how many zombies are spawned where your camera is pointed*
-- stat ai_equ - *allows the player to see how many birds, snowmen, and ISZ guy collectables are spawned where your camera is pointed.*
+- stat ai_equ - *allows the player to see how many birds, snowmen, and ISZ guy collectables are spawned where your camera is pointed*
+
+# Edit Player Cheat(s)/Command(s):
+- editactor - *edit(s) a specific object that the mouse is pointed at (needs a conditional arguement)*
+- editobject - *edit(s) a non-actor object such as the terrain or locations*
+- Find example(s) of these command(s) [Here](https://docs.unrealengine.com/udk/Three/GameplayDebugging.html#:~:text=The%20editactor%20console%20command%20makes%20the%20properties%20of,a%20name%20or%20a%20class%20as%20an%20argument.).
 
 # Level Names:
 - Title/Menu Screen - */Game/ThirdPersonCPP/Maps/Title*
 - Game - */Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap*
 
 # Notes:
-- Number refers to a number of your choice without the word "number".
-- Level name refers to the full-level path. under "Level Names:" without the word(s) "level name".
+- "number" refers to a number of your choice without the need for the statement "number".
+- "Level Name" refers to the full-level path. under "Level Names:" without the need for the statement "Level Name".
 - To use these codes online you must be hosting a game.
 - These codes work on all consoles/systems Ice Station Z 2021 released on.
 - If Wobbly Tooth Ltd requests this guide to be taken down. It will be taken down.
 - Requires Unreal Engine console knowledge.
 - The "-" sign in the cheats is NOT supposed to be copied (it seperates the note from the cheat).
-- Want more console commands? Absolutely! I have you covered on [This Site](http://kosmokleaner.de/ownsoft/UE4CVarBrowser.html) Here.
+- Want more console commands? Absolutely! I have you covered on This Site [Here](http://kosmokleaner.de/ownsoft/UE4CVarBrowser.html).
+- name
 
 # Screenshots:
 
