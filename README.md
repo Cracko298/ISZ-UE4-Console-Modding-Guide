@@ -68,7 +68,6 @@
 - Requires Unreal Engine console knowledge.
 - The "-" sign in the cheats is NOT supposed to be copied (it seperates the note from the cheat).
 - Want more console commands? Absolutely! I have you covered on This Site [Here](http://kosmokleaner.de/ownsoft/UE4CVarBrowser.html).
-- name
 
 # Screenshots:
 
